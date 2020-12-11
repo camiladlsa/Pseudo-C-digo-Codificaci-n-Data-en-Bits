@@ -128,34 +128,5 @@ with open('employee.csv', mode = 'w', newline = '') as file:
 	for d in data_array:
 		sex, civil, degree, age = decode(d)
 		writer.writerow({"sex": sex, "Civil Status": civil, "Degree": degree, "Age": age})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		
+		
