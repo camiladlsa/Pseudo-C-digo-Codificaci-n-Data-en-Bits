@@ -4,7 +4,7 @@
 
 How to on needed packages to run code in MacOs: [https://github.com/camiladlsa/PROG2TAR1.git]
 
-## How TO RUN PAP.py 
+## HOW TO RUN PAP.py 
 
 1. Go to a directory in your local computer. 
 
